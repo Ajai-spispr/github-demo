@@ -1,0 +1,3 @@
+function makeServCall(){
+	return server;
+}
